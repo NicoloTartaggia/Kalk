@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>rsz_icona.png</file>
+        <file>rsz_palla.jpg</file>
+    </qresource>
+</RCC>
